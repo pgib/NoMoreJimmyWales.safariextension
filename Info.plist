@@ -5,15 +5,15 @@
 	<key>Author</key>
 	<string>Patrick Gibson</string>
 	<key>CFBundleDisplayName</key>
-	<string>NoMoreJimmyWales</string>
+	<string>No More Jimmy Wales</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.patrickg.nomorejimmywales</string>
+	<string>com.patrickgibson.nomorejimmywales</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3</string>
+	<string>1.4</string>
 	<key>CFBundleVersion</key>
-	<string>1.3</string>
+	<string>1.4</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -42,7 +42,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://patrickgibson.com/projects/nomorejimmywales/nomorejimmywales.plist</string>
+	<string>http://patrickgibson.com/projects/com.patrickgibson.nomorejimmywales/nomorejimmywales.plist</string>
 	<key>Website</key>
 	<string>http://patrickgibson.com/</string>
 </dict>
