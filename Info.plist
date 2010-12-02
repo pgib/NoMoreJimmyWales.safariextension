@@ -11,9 +11,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.4</string>
+	<string>1.7</string>
 	<key>CFBundleVersion</key>
-	<string>1.4</string>
+	<string>1.7</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -42,7 +42,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://patrickgibson.com/projects/com.patrickgibson.nomorejimmywales/nomorejimmywales.plist</string>
+	<string>http://patrickgibson.com/projects/nomorejimmywales/com.patrickgibson.nomorejimmywales.plist</string>
 	<key>Website</key>
 	<string>http://patrickgibson.com/</string>
 </dict>
